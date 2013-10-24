@@ -20,5 +20,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   librarian-puppet
   puppet (= 3.3.1)

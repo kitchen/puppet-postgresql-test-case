@@ -3,6 +3,6 @@
   - yaml
 :yaml:
   # CHANGE THIS
-  :datadir: /home/kitchen/Development/puppet/hiera
+  :datadir: /home/kitchen/Development/pg-bug/
 :hierarchy:
   - global
